@@ -1,0 +1,15 @@
+E:\Projects\C#\Game\Utils\bin\Debug\net8.0\Utils.exe
+E:\Projects\C#\Game\Utils\bin\Debug\net8.0\Utils.deps.json
+E:\Projects\C#\Game\Utils\bin\Debug\net8.0\Utils.runtimeconfig.json
+E:\Projects\C#\Game\Utils\bin\Debug\net8.0\Utils.dll
+E:\Projects\C#\Game\Utils\bin\Debug\net8.0\Utils.pdb
+E:\Projects\C#\Game\Utils\obj\Debug\net8.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Game\Utils\obj\Debug\net8.0\Utils.AssemblyInfoInputs.cache
+E:\Projects\C#\Game\Utils\obj\Debug\net8.0\Utils.AssemblyInfo.cs
+E:\Projects\C#\Game\Utils\obj\Debug\net8.0\Utils.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Game\Utils\obj\Debug\net8.0\Utils.sourcelink.json
+E:\Projects\C#\Game\Utils\obj\Debug\net8.0\Utils.dll
+E:\Projects\C#\Game\Utils\obj\Debug\net8.0\refint\Utils.dll
+E:\Projects\C#\Game\Utils\obj\Debug\net8.0\Utils.pdb
+E:\Projects\C#\Game\Utils\obj\Debug\net8.0\Utils.genruntimeconfig.cache
+E:\Projects\C#\Game\Utils\obj\Debug\net8.0\ref\Utils.dll

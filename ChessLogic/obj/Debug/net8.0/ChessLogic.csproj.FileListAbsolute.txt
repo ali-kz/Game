@@ -1,0 +1,12 @@
+E:\Projects\C#\Game\ChessLogic\bin\Debug\net8.0\ChessLogic.deps.json
+E:\Projects\C#\Game\ChessLogic\bin\Debug\net8.0\ChessLogic.dll
+E:\Projects\C#\Game\ChessLogic\bin\Debug\net8.0\ChessLogic.pdb
+E:\Projects\C#\Game\ChessLogic\obj\Debug\net8.0\ChessLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Game\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfoInputs.cache
+E:\Projects\C#\Game\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfo.cs
+E:\Projects\C#\Game\ChessLogic\obj\Debug\net8.0\ChessLogic.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Game\ChessLogic\obj\Debug\net8.0\ChessLogic.sourcelink.json
+E:\Projects\C#\Game\ChessLogic\obj\Debug\net8.0\ChessLogic.dll
+E:\Projects\C#\Game\ChessLogic\obj\Debug\net8.0\refint\ChessLogic.dll
+E:\Projects\C#\Game\ChessLogic\obj\Debug\net8.0\ChessLogic.pdb
+E:\Projects\C#\Game\ChessLogic\obj\Debug\net8.0\ref\ChessLogic.dll
